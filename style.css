@@ -84,6 +84,13 @@ a{
     left: 100px;
     z-index: -1;
 }
+#section-header img[alt="eclipse3"]{
+    width: 100px;
+    position: relative;
+    bottom: 200px;
+    right: 100px;
+    z-index: -1;
+}
 /* section new-music */
 
 #new-music .new-music2 .left, #new-music .new-music2 .right{
